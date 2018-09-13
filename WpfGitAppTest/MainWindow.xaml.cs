@@ -32,8 +32,8 @@ namespace WpfGitAppTest
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            lbBericht.Items.Add('Welcome');
-            lbBericht.Items.Add('lang geleden');
+            lbBericht.Items.Add("Welcome");
+            lbBericht.Items.Add("lang geleden");
         }
     }
 }
