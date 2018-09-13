@@ -34,6 +34,7 @@ namespace WpfGitAppTest
         {
             lbBericht.Items.Add("Welcome");
             lbBericht.Items.Add("lang geleden");
+            lbBericht.Items.Add("add in Brach");
         }
     }
 }
