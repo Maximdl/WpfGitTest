@@ -8,5 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Test GIT" HorizontalAlignment="Left" Margin="69,56,0,0" VerticalAlignment="Top" Width="344"/>
+        <Button x:Name="btnBericht" Content="Bericht&#xD;&#xA;" HorizontalAlignment="Left" Height="148" Margin="356,244,0,0" VerticalAlignment="Top" Width="428" Click="Button_Click"/>
+        <ListBox x:Name="lbBericht" HorizontalAlignment="Left" Height="247" Margin="69,145,0,0" VerticalAlignment="Top" Width="238"/>
     </Grid>
 </Window>
